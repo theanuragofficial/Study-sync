@@ -1,0 +1,74 @@
+@media screen and (min-width: 320px) and (max-width: 570px) {
+  .proud span {
+    margin-left: 0 !important;
+  }
+
+  #starnow {
+    padding: 10px 5px !important;
+  }
+  #taketour {
+    padding: 10px 5px !important;
+  }
+  .studyimage {
+    width: 100% !important;
+    height: 17rem !important;
+    margin-top: 3rem !important;
+  }
+  .trust span {
+    padding: 1rem 0rem !important;
+  }
+  .compititionbox1 {
+    width: 100% !important;
+  }
+  .compititionbox2 {
+    width: 100% !important;
+    margin-top: 1rem !important;
+  }
+  .compititionbox3 {
+    width: 100% !important;
+  }
+  .compititionbox4 {
+    width: 100% !important;
+    margin-top: 1rem !important;
+  }
+  .compititionbox5 {
+    width: 100% !important;
+  }
+  .compititionbox6 {
+    width: 100% !important;
+    margin-top: 1rem !important;
+  }
+  #emailform {
+    margin-bottom: 1rem !important;
+  }
+}
+
+@media screen and (min-width: 570px) and (max-width: 1024px) {
+  .studyimage {
+    width: 100% !important;
+  }
+  .trust span {
+    padding: 2rem 0rem !important;
+  }
+  .compititionbox1 {
+    width: 100% !important;
+  }
+  .compititionbox2 {
+    width: 100% !important;
+  }
+  .compititionbox3 {
+    width: 100% !important;
+  }
+  .compititionbox4 {
+    width: 100% !important;
+  }
+  .compititionbox5 {
+    width: 100% !important;
+  }
+  .compititionbox6 {
+    width: 100% !important;
+  }
+  #emailform {
+    margin-bottom: 20px;
+  }
+}

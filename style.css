@@ -1,0 +1,414 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+.nav-link {
+  font-weight: 700;
+  font-size: 18px;
+}
+#Study {
+  font-weight: 700;
+  font-size: 28px;
+}
+#pennib {
+  color: rgb(134, 134, 238);
+}
+.contactlink a {
+  text-decoration: none;
+  padding: 10px 16px;
+  background-color: blue;
+  color: white;
+  border-radius: 7px;
+  font-weight: 700;
+}
+.proud span {
+  margin-left: 3rem;
+}
+#starnow {
+  text-decoration: none;
+  font-weight: 700;
+  padding: 10px 16px;
+  background-color: blue;
+  color: white;
+  border-radius: 9px;
+}
+#taketour {
+  text-decoration: none;
+  font-weight: 700;
+  padding: 10px 16px;
+  background-color: grey;
+  color: white;
+  border-radius: 9px;
+}
+.proud p {
+  color: rgb(134, 134, 238);
+  font-weight: 600;
+}
+.proud h6 {
+  padding: 2rem 0rem;
+  color: grey;
+}
+.proud h1 {
+  font-size: 60px;
+  font-weight: 700;
+}
+.seamless {
+  margin-top: 4rem;
+}
+.studyimage {
+  width: 82%;
+  height: 27rem;
+}
+.studyimage img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 15px;
+}
+.trust span {
+  border-radius: 15px;
+  background-color: #f8f3f7;
+  padding: 2rem 5rem;
+}
+.trust {
+  text-align: center;
+}
+.trust span a {
+  margin: 0px 30px;
+  text-decoration: none;
+  color: #a7a5a8;
+  font-size: 20px;
+  font-weight: 600;
+}
+.trust h1 {
+  margin: 3rem 0;
+}
+#googleicon1,
+#googleicon2,
+#googleicon3,
+#googleicon4 {
+  color: #a7a5a8;
+  font-size: 30px;
+  margin: 0 0.5rem;
+}
+.compitition {
+  background-color: #f8f3f7;
+  margin-top: 6rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+.compitition h1 {
+  font-weight: 700;
+}
+#firstpara {
+  color: #a7a5a8;
+  margin: 2rem 0;
+}
+.compititionbox1 div i {
+  border-radius: 50%;
+
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  background-color: white;
+
+  width: 25px;
+  height: 25px;
+}
+.compititionbox1 div {
+  padding-top: 1rem;
+}
+.compititionbox1 {
+  background-color: #4a92e6;
+  border-radius: 10px;
+  padding: 0.7rem;
+  width: 50%;
+}
+.compititionbox1 h6 {
+  margin: 0.7rem 0;
+  font-weight: 700;
+  color: white;
+  font-size: 20px;
+}
+.compititionbox2 div i {
+  border-radius: 50%;
+
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  background-color: white;
+
+  width: 25px;
+  height: 25px;
+}
+.compititionbox2 div {
+  justify-content: center;
+  display: flex;
+  padding-top: 1rem;
+}
+.compititionbox2 {
+  background-color: #ff608c;
+  border-radius: 10px;
+  padding: 0.7rem;
+  width: 50%;
+}
+.compititionbox2 h6 {
+  margin: 0.7rem 0;
+  font-weight: 700;
+  color: white;
+  font-size: 20px;
+}
+
+.compititionbox3 div i {
+  border-radius: 50%;
+
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  background-color: white;
+
+  width: 25px;
+  height: 25px;
+}
+.compititionbox3 div {
+  justify-content: center;
+  display: flex;
+  padding-top: 1rem;
+}
+.compititionbox3 {
+  background-color: #febe52;
+  border-radius: 10px;
+  padding: 0.7rem;
+  width: 50%;
+}
+.compititionbox3 h6 {
+  margin: 0.7rem 0;
+  font-weight: 700;
+  color: white;
+  font-size: 20px;
+}
+
+.compititionbox4 div i {
+  border-radius: 50%;
+
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  background-color: white;
+
+  width: 25px;
+  height: 25px;
+}
+.compititionbox4 div {
+  justify-content: center;
+  display: flex;
+  padding-top: 1rem;
+}
+.compititionbox4 {
+  background-color: #42bfc5;
+  border-radius: 10px;
+  padding: 0.7rem;
+  width: 50%;
+}
+.compititionbox4 h6 {
+  margin: 0.7rem 0;
+  font-weight: 700;
+  color: white;
+  font-size: 20px;
+}
+.compititionbox5 div i {
+  border-radius: 50%;
+
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  background-color: white;
+
+  width: 25px;
+  height: 25px;
+}
+.compititionbox5 div {
+  justify-content: center;
+  display: flex;
+  padding-top: 1rem;
+}
+.compititionbox5 {
+  background-color: #73b15b;
+  border-radius: 10px;
+  padding: 0.7rem;
+  width: 50%;
+}
+.compititionbox5 h6 {
+  margin: 0.7rem 0;
+  font-weight: 700;
+  color: white;
+  font-size: 20px;
+}
+.compititionbox6 div i {
+  border-radius: 50%;
+
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  background-color: white;
+
+  width: 25px;
+  height: 25px;
+}
+.compititionbox6 div {
+  justify-content: center;
+  display: flex;
+  padding-top: 1rem;
+}
+.compititionbox6 {
+  background-color: #7a79b5;
+  border-radius: 10px;
+  padding: 0.7rem;
+  width: 50%;
+}
+.compititionbox6 h6 {
+  margin: 0.7rem 0;
+  font-weight: 700;
+  color: white;
+  font-size: 20px;
+}
+.other1image {
+  width: 100px;
+  height: 100px;
+}
+.other1image img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+.others1 {
+  box-shadow: 2px 2px 14px grey;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.others2 {
+  border: 1px solid #7a79b5;
+  /* box-shadow: 2px 2px 207px grey; */
+  padding: 15px;
+  border-radius: 10px;
+}
+.others2:hover {
+  box-shadow: 2px 2px 180px grey;
+}
+.others1:hover {
+  box-shadow: 2px 2px 207px grey;
+}
+.others {
+  margin-top: 2rem;
+}
+.updateimage {
+  width: 100%;
+  height: 350px;
+}
+.update {
+  margin-top: 5rem;
+}
+.updateimage img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.update {
+  background-color: #f8f3f7;
+  box-shadow: 4px 4px 32px black;
+  border-radius: 40px;
+  overflow: hidden;
+  margin-bottom: 50px;
+}
+.send {
+  text-decoration: none;
+  border: 2px solid transparent;
+}
+.send:hover {
+  border: 2px solid red;
+  background-color: transparent !important;
+  color: black !important;
+  transition: 0.7s ease-in-out;
+}
+.updateform {
+  padding: 4rem;
+}
+.terms {
+  font-size: 13px;
+}
+
+.loader {
+  width: 48px;
+  height: 48px;
+  display: block;
+  margin: 15px auto;
+  position: relative;
+  color: #ccc;
+  box-sizing: border-box;
+  animation: rotation 1s linear infinite;
+}
+
+/* .loader::after,
+    .loader::before{
+        content: "";
+        box-sizing: border-box;
+        position: absolute;
+        width: 24px;
+        height: 24px;
+        top: 50%;
+        left:50%;
+        transform: scale(0.5) translate(0,0);
+        background-color: #ccc;
+        border-radius: 50%;
+        animation: animloader 1s infinite ease-in-out;
+    }
+    
+    .loader::before{
+        background-color: #000;
+        transform: scale(0.5) translate(-48px,48px);
+    
+    }
+    @keyframes rotation{
+        0%{
+            transform: rotate(0deg);
+    
+        }
+        100%{
+            transform: rotate(360deg);}
+        }
+    
+    @keyframes animloader{
+    
+        50%{
+            transform: scale(1); translate: (-50%,-50%);
+        }
+    } 
+     */
+.learning a {
+  font-size: 30px;
+  color: grey;
+  margin: 0 10px;
+}
+.learning a i:hover {
+  color: blue;
+  transform: scale(2);
+  transition: 0.7s;
+}
+.learning p {
+  color: grey;
+  font-size: 15pxpx;
+}
+.learning1 a {
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 600;
+  color: grey;
+}
+.learning1 a:hover {
+  color: blue;
+  text-decoration: underline;
+}
